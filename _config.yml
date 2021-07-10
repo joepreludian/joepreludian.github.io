@@ -1,6 +1,8 @@
 # main text of home
+title: Joepreludian GH
 name: Jonhnatha Trigueiro
 bio: Software Engineer with emphasis on DevOps culture 
+repository: joepreludian/joepreludian.github.io
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -73,7 +75,7 @@ about: false
 blog: false
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
